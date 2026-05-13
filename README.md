@@ -112,16 +112,16 @@ The repository contains the following files:
 ## 10. Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](https://github.com/Raghul2k03/Education-Analysis-Dashboard/blob/main/Overview%20Dashboard.png)
+![Overview Dashboard](https://github.com/Kirubasankar-K-R/Education-Analysis-Dashboard/blob/main/Overview%20Dashboard.png)
 
 ### 10th Dashboard
-![10th Dashboard](https://github.com/Raghul2k03/Education-Analysis-Dashboard/blob/main/10th%20Dashboard.png)
+![10th Dashboard](https://github.com/Kirubasankar-K-R/Education-analysis-Dashboard/blob/main/10th%20Dashboard.png)
 
 ### 11th Dashboard
-![11th Dashboard](https://github.com/Raghul2k03/Education-Analysis-Dashboard/blob/main/11th%20Dashboard.png)
+![11th Dashboard](https://github.com/Kirubasankar-K-R/Education-Analysis-Dashboard/blob/main/11th%20Dashboard.png)
 
 ### 12th Dashboard
-![12th Dashboard](https://github.com/Raghul2k03/Education-Analysis-Dashboard/blob/main/12th%20Dashboard.png)
+![12th Dashboard](https://github.com/Kirubasankar-K-R/Education-Analysis-Dashboard/blob/main/12th%20Dashboard.png)
 
 ---
 
@@ -154,4 +154,4 @@ This project showcases the following skills:
 
 Click below to view the interactive Power BI Dashboard:
 
-[View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/64ce77eb-99d8-4fea-8a58-c77659b159f9/3dd38e5780db8ca4a0f5?experience=power-bi)
+[View Power BI Dashboard]
